@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Cormorant+Infant:ital,wght@1,300&display=swap');
 *{
 	margin: 0;
 }
@@ -7,6 +8,7 @@ header{
 }
 h1{
 	text-align: center;
+  font-family: 'Cormorant Infant', serif;
 }
 #menu{
 	width: 15%;
@@ -28,8 +30,11 @@ footer{
 h2{
 	text-align: center;
 	color: whitesmoke;
+  font-family: 'Bad Script', cursive;
+  
+
 }
-.button-54{
+.button1{
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
   letter-spacing: 2px;
@@ -47,6 +52,7 @@ h2{
   width: 80%;
   margin-bottom: 10px;
   margin-left: 20px;
+ 
 
 }
 
